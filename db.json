@@ -592,7 +592,7 @@
   "categories": ["men", "women"],
   "cart": [
     {
-      "img": "https://i.pinimg.com/564x/3a/18/94/3a189411d16375da1f945d7ef07a36fa.jpg",
+      "image": "https://i.pinimg.com/564x/3a/18/94/3a189411d16375da1f945d7ef07a36fa.jpg",
       "title": "Men Cotton Jacket",
       "price": 52.9,
       "quantity": 1,
